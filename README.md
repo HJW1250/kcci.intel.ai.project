@@ -18,7 +18,7 @@ GPU:Intel(R) UHD Graphics 630
 
 
 ```shell
-[git clone https://github.com/desafin/intel_AI_squat_counter]
+[git clone https://github.com/kithousand/kcci.intel.ai.project.git]
 ```
 
 
