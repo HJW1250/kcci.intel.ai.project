@@ -38,5 +38,6 @@ python car_plate_detection.py -d GPU -i C:\Users\teee\Media_Mosaic\car_human.mp4
 
 ## Output
 
-![image](https://github.com/kithousand/kcci.intel.ai.project/assets/96045246/9028e300-2621-4c5a-819e-3b512c3db568)
+![image](https://github.com/kithousand/kcci.intel.ai.project/assets/96045246/05f1a475-6799-41cb-b085-0d3d0bcfdd50)
+
 
