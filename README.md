@@ -6,11 +6,13 @@ Media Mosaic
 3.얼굴은 이모티콘으로 대체하고 번호판은 모자이크 처리한다.
 
 
+
 ## Requirement
 
 CPU:	Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz
 memory:	32.0GB
 GPU:Intel(R) UHD Graphics 630
+
 
 
 
@@ -25,6 +27,7 @@ GPU:Intel(R) UHD Graphics 630
 
 
 
+
 ## Steps to run
 
 얼굴인식
@@ -34,6 +37,7 @@ python face_recog.py -d GPU -i C:\Users\teee\Media_Mosaic\human.mp4 -m C:\Users\
 
 번호판인식
 python car_plate_detection.py -d GPU -i C:\Users\teee\Media_Mosaic\car_human.mp4 -m C:\Users\teee\test\.venv\Scripts\open_model_zoo\demos\object_detection_demo\python\intel\vehicle-license-plate-detection-barrier-0106\FP16\vehicle-license-plate-detection-barrier-0106.xml -at ssd
+
 
 
 
